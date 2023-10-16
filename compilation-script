@@ -1,1 +1,1 @@
-gcc -g ${file}.cpp "D:/Game Development/Testing/stb/stb.cpp" "C:/MinGW/lib/glad.c" "C:/MinGW/lib/libglfw3.a" "D:/Game Development/First game/stb/stb.a" -o ${file}.exe -L	"C:/MinGW/lib/glew32.lib"	"-lgdi32"
+gcc -g ${file}.cpp "D:/Game Development/Testing/stb/stb.cpp" "C:/MinGW/lib/glad.c" "C:/MinGW/lib/libglfw3.a" "D:/Game Development/First game/stb/stb.a" -o ${file}.exe -L	"C:/MinGW/lib/glew32.lib" "-lgdi32"
